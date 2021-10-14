@@ -1,0 +1,17 @@
+blender:
+
+- If you are beginner is general is the best option to start.
+- if you hold middle wheel on your mouse you can move your veew.
+- if you scroll up or down you can resize your screen size.
+- If shift + middle wheel you can move around the space.
+- at to top whe have a menu where you can find add, from there you can add various shapes.
+- if i press g i can move freely around an object, to cancel the movement you can click left mouse button.
+- if you press g and you press x, y or z you can move along specific coordinates.
+- left click per selezionare un oggetto.
+- If you want to rotate an object you have press R and than by pressing x, y or z you can select along which coordinates you want to move.
+- If you want to scale an object you can press s and press x, y or z to size along one specific coordinate.
+- if you press shift+a you can have add menu from where you can add different object ad stuff.
+- to move the cursor of spawn you can press shift + right click.
+-shift+D will duplicate an object.
+- if you want to hide something you have to press h.
+-
